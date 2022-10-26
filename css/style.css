@@ -1,6 +1,6 @@
 :root {
-  --primaryColor: #28e31b;
-  --secondaryColor: #ffffff;
+  --primaryColor: #29a021;
+  --secondaryColor: #919c9a;
   --lightColor: #ffffff;
   --bgColor-1: #080707;
   --bgColor-2: #111d1a;
@@ -15,7 +15,7 @@
 }
 
 html {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Readex Pro', sans-serif;
   font-size: 16px;
   color: var(--lightColor);
 }
@@ -52,7 +52,7 @@ h2:hover {
 }
 
 h3 {
-  font-size: 3rem;
+  font-size: 2.5rem;
   margin: 1.7rem 0;
   letter-spacing: 0.12rem;
 
@@ -66,7 +66,7 @@ h3:hover {
 }
 
 h4 {
-  font-size: 2rem;
+  font-size: 1.8rem;
   margin: 1.7rem 0;
   letter-spacing: 0.12rem;
   transition: 0.4s;
@@ -78,7 +78,7 @@ h4:hover {
 }
 
 h5 {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   margin: 1.7rem 0;
   letter-spacing: 0.12rem;
   text-align: center;
@@ -88,7 +88,7 @@ p {
   color: var(--secondaryColor);
   letter-spacing: 1px;
   line-height: 1.8rem;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 nav {
